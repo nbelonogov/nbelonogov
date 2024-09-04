@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-Python developer &ensp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> &ensp;| &ensp;Python, Django, DRF, PostgreSQL, Celery, RabbitMQ
+Python developer &ensp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> &ensp;| &ensp; Python, Django, Django REST Framework, PostgreSQL
 
 Contact me: [![Telegram Badge](https://img.shields.io/badge/-belonogovnikita-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/belonogovnikita) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nbelonogov96@gmail.com)
 
