@@ -19,7 +19,6 @@ Contact me: [![Telegram Badge](https://img.shields.io/badge/-belonogovnikita-blu
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/celery/celery-plain.svg" title="Celery" alt="Celery" width="40" height="40"/>
   <!-- Add more icons as needed -->
 </div>
 
